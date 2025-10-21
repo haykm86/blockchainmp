@@ -1,4 +1,4 @@
-module github.com/haykm86
+module github.com/haykm86/blockchainmp
 
 go 1.24.7
 

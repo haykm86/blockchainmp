@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/haykm86/network"
+	"github.com/haykm86/blockchainmp/network"
 )
 
 // server
